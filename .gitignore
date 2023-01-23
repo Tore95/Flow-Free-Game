@@ -1,0 +1,7 @@
+/.DS_Store
+/.idea
+/.vscode
+/build
+/cmake-build-debug
+/test.out
+/test.out.dSYM
